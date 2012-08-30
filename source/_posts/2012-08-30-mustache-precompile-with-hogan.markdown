@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mustache.js/Hogan.js 模板原理和预编译"
+title: "Mustache.js/Hogan.js 模板预编译"
 date: 2012-08-30 17:58
 comments: false
 external-url: 
